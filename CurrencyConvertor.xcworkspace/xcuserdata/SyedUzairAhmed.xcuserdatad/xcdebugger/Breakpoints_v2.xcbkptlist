@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConvertor/ViewControllers/DetailsVC.swift"
+            timestampString = "532541412.414799"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "getRates()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyConvertor.DetailsVC.(getRates in _6522C50858124F09503308F23930832F)() -&gt; ()"
+                  moduleName = "CurrencyConvertor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/SyedUzairAhmed/Desktop/CurrencyConvertor/CurrencyConvertor/ViewControllers/DetailsVC.swift"
+                  timestampString = "532539996.268796"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "1416">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;CurrencyConvertor.CurrencyModel&gt;) -&gt; () in CurrencyConvertor.DetailsVC.(getRates in _6522C50858124F09503308F23930832F)() -&gt; ()"
+                  moduleName = "CurrencyConvertor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/SyedUzairAhmed/Desktop/CurrencyConvertor/CurrencyConvertor/ViewControllers/DetailsVC.swift"
+                  timestampString = "532539996.272261"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "205">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
